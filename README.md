@@ -1,4 +1,4 @@
-# ⚡ PowerWise
+# ⚡ ENERGI AI
 
 A Machine Learning project that predicts **household electricity demand** and estimates the **electricity cost** based on consumption patterns, time-based features, and tariff rules.
 
